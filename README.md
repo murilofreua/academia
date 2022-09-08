@@ -1,6 +1,6 @@
 # Academia (Java)
 
-Aplicação em Java que simula o gerenciamento de uma academia.
+Aplicação em Java que simula o gerenciamento de uma academia comum.
 
 Projeto final da disciplina de Programação Orientada a Objetos.
 
